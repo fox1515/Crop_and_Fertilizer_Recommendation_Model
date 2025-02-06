@@ -65,17 +65,13 @@ This will launch the web application in your browser at `http://localhost:8501`.
 ## **📁 Project Structure**
 
 ```
-/crop-fertilizer-recommendation
+/Crop_and_Fertilizer_Recommendation_Model
 ├── app.py                    # Main Streamlit web application
-├── Crop_recommendation.csv    # Dataset for crop recommendation model
-├── crop_model.pkl             # Saved crop recommendation model (Naive Bayes)
-├── fertilizer_model.pkl       # Saved fertilizer recommendation model (Random Forest)
-├── crop.iynb                  # Jupyter notebook for crop recommendation model training
+├── Crop.pkl             # Saved crop recommendation model (Naive Bayes)
+├── fertilizer.pkl       # Saved fertilizer recommendation model (Random Forest)
+├── crop_recco.iynb                  # Jupyter notebook for crop recommendation model training
 ├── Fertilizer.ipynb           # Jupyter notebook for fertilizer recommendation model training
-├── requirements.txt           # List of required Python dependencies
-└── images/                    # Folder containing screenshots and visualizations
-    ├── crop_recommendation.png
-    └── fertilizer_recommendation.png
+└── requirements.txt           # List of required Python dependencies
 ```
 
 ---
