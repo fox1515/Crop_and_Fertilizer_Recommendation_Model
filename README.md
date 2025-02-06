@@ -31,8 +31,8 @@ To set up and run this project locally, follow these steps:
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/crop-fertilizer-recommendation.git
-cd crop-fertilizer-recommendation
+git clone https://github.com/fox1515/Crop_and_Fertilizer_Recommendation_Model.git
+cd Crop_and_Fertilizer_Recommendation_Model
 ```
 
 ### **2. Install Dependencies**
@@ -107,20 +107,6 @@ The dataset is preprocessed to handle missing values, normalize/standardize feat
 
 ### **4. Deployment**
 - The trained models are serialized using **Pickle** and integrated into a **Streamlit** application for real-time predictions. Users can enter soil parameters and receive crop or fertilizer recommendations instantly. 🚜
-
----
-
-## **📸 Screenshots**
-
-Below are examples of the user interface:
-
-#### **🌱 Crop Recommendation**
-![Crop Recommendation](images/crop_recommendation.png)
-*Predict the most suitable crop based on soil and environmental factors.*
-
-#### **💧 Fertilizer Recommendation**
-![Fertilizer Recommendation](images/fertilizer_recommendation.png)
-*Get fertilizer recommendations based on soil conditions and crop type.*
 
 ---
 
