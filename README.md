@@ -1,0 +1,2 @@
+# Crop_and_Fertilizer_Recommendation_Model
+Crop and Fertilizer Recommendation Model
